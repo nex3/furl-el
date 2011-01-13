@@ -202,4 +202,6 @@ function."
         (kill-buffer)
         str))))
 
+(provide 'furl)
+
 ;;; furl.el ends here
