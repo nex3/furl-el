@@ -3,7 +3,7 @@
 ;; Copyright (C) 2010 Google Inc.
 
 ;; Author: Nathan Weizenbaum <nweiz@google.com>
-;; Version: 0.0.1
+;; Version: 0.0.2
 
 ;;; Commentary:
 
