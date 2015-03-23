@@ -1,0 +1,1 @@
+A wrapper for url.el that adds a nicer API and the ability to make multipart POST requests.
