@@ -35,7 +35,7 @@
 ;;; Code:
 
 (require 'url)
-(eval-when-compile (require 'cl))
+(require 'cl)
 
 (defvar furl-silent nil
   "Whether to retrieve URLs without messaging progress reports.
